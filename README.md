@@ -6,6 +6,7 @@ X, by Mark Steere, is a three player game played on a diamond shaped board with 
 
 ## Result
 <img width="388" alt="image" src="https://github.com/user-attachments/assets/b4e324f7-37ee-4fcf-bfb7-4566fe1869b5">
+
 The detailed implementation function is in def display_board(self).
 
 ## Code Implementation 

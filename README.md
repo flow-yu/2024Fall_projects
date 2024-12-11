@@ -13,9 +13,9 @@ The detailed implementation function is in def display_board(self).
 All the functions end with "_updated" have the similar functionality with the original functions, but only the returns are different.
 
 ### Board Modeling
-Here is the detail for the board modeling. 
 <img width="388" alt="image" src="https://github.com/user-attachments/assets/804e9899-0395-4d56-8e67-e286b5d0cd69">
 
+Above is one example for the board modeling. 
 From the example above, column -6 and -5 are marked by the dotted lines. In each column, the y starts from 0. The x, ranging from -7 to 7, in the middle column is 0. The detailed implementation is in def __init__(self, size).
 
 ### Corner Claim Judgement  
